@@ -1,0 +1,53 @@
+*{
+/*	outline: 1px solid red;
+*/}
+body{
+	margin: 10;
+	padding: 10;
+}
+.contenedor{
+	margin: 0;
+	padding: 0;
+}
+#rosa{
+	background: #EE3E64;
+	width: 400px;
+	height: 400px;
+}
+#azul{
+	background: #287DB9;
+	position: relative;
+	width: 100px;
+	height: 100px;
+
+	
+}
+#verde{
+	background: #B7D84B;
+	position: relative;
+    width: 200px;
+    height: 200px;
+    left: 100px;
+    top: 100px;
+}
+#amarillo{
+	background: yellow;
+	width: 400px;
+	height: 400px;
+}
+#rosado{
+	background: pink;
+	position: relative;
+    width: 200px;
+    height: 200px;
+    left: 100px;
+    top: 100px;
+}
+#negro{
+	background: black;
+	position: relative;
+    width: 200px;
+    height: 200px;
+    left: 100px;
+    top: 100px;
+}
